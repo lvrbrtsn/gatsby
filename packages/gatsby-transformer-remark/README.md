@@ -1,3 +1,5 @@
+Need to add that this requires a separate plugin where the content is sourced. Use `gatsby-source-filesystem` and point it to the location of your md files. 
+
 # gatsby-transformer-remark
 
 Parses Markdown files using [Remark](http://remark.js.org/).
